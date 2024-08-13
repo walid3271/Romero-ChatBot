@@ -20,4 +20,4 @@ cd ChatBot
 
 streamlit run bdCalling.py (run interface)
 
-The response takes much time because of using a free API token and using only CPU power for similarity search.
+Note: The response takes much time because of using a free API token and using only CPU power for similarity search.
