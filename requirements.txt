@@ -50,8 +50,6 @@ protobuf
 psutil
 pure_eval
 pyarrow
-pyasn1
-pyasn1_modules
 pydantic
 pydantic_core
 pydeck
@@ -60,7 +58,6 @@ pyparsing
 python-dateutil
 python-dotenv
 pytz
-pywin32
 PyYAML
 pyzmq
 referencing
